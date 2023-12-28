@@ -23,7 +23,7 @@ function Home() {
   return (
     <Container>
       <div style={TextStyle}>
-        <div>WELCOME TO vnbaodev's PROFILE PAGE</div>
+        <div>WELCOME TO MY PROFILE PAGE</div>
         <Row className="justify-content-center">
           <Col md="auto">
             <Button style={{ padding: '20px 110px', margin: '80px 80px 0 80px' }} variant='primary' onClick={() => ClickButton1()}>
